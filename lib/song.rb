@@ -3,7 +3,7 @@
     attr_accessor :title
     
     def initialize
-      @name = name
+      @@name = name
     end
   
   end
